@@ -1,0 +1,6 @@
+torch
+torchvision
+networkx
+opencv-python
+matplotlib
+scikit-learn
